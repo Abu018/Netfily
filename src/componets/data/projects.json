@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Crypto Tracker",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a user-friendly web-based Crypto Currency Tracker providing real-time insights into the top 20 cryptocurrencies. ",
+    "skills": ["HTML", "React", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Abu018"
+  },
+  {
+    "title": "Expense-Tracker",
+    "imageSrc": "projects/project.png",
+    "description": "Created a comprehensive web app for expense management, offering effortless financial tracking with real-time updates. ",
+    "skills": ["HTML", "CSS", "React", "Firebase"],
+    "demo": "Not",
+    "source": "https://github.com/Abu018/Major-ExpenseTracker"
+  },
+  {
+    "title": "Signature Forgery Detection",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a Python-based Signature Forgery Detection system to identify Fake Signature and Orginal one .",
+    "skills": ["Python", "NumPy", "Pandas", " Tkinter"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

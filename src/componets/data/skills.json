@@ -1,0 +1,55 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript-96.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node.js",
+    "imageSrc": "skills/nodejs-96.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/tailwind-css-96.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java-logo-96.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python-96.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/c++-100.png"
+  },
+  {
+    "title": "C",
+    "imageSrc": "skills/c-100.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql-90.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git-96.png"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/typescript-96.png"
+  },
+  { "title": "Redux", "imageSrc": "skills/redux-100.png" }
+]
